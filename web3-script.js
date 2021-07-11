@@ -2,8 +2,8 @@ var rinkeby = "0x4";
 var mainnet = "0x1";
 
 var config = {
-  chainId: rinkeby,
-  contractAddress: "0x32D197B06F2692a5477f6F45082B58a7e4CAF0e5",
+  chainId: mainnet,
+  contractAddress: "0x9A9f875a0b31D04CAb3454d4fD7b83d838B4e4A2",
   countdownTimestamp: 1620000000,
 }
 
