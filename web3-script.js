@@ -4,7 +4,7 @@ var mainnet = "0x1";
 var config = {
   chainId: mainnet,
   contractAddress: "0x9A9f875a0b31D04CAb3454d4fD7b83d838B4e4A2",
-  countdownTimestamp: 1620000000,
+  countdownTimestamp: 1626296400,
 }
 
 
