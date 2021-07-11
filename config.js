@@ -2,9 +2,9 @@ const rinkeby = "0x4";
 const mainnet = "0x1";
 
 export default {
-  chainId: mainnet,
-  contractAddress: "0x9A9f875a0b31D04CAb3454d4fD7b83d838B4e4A2",
-  countdownTimestamp: 1600000000,
+  chainId: rinkeby,
+  contractAddress: "",
+  countdownTimestamp: 1620000000,
 };
 
 /*
