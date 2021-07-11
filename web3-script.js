@@ -74,7 +74,7 @@ function checkCorrectChain(chainId) {
   if (chainId !== config.chainId) {
     if (config.chainId === "0x4") {
       modalAlert("Connect to the Rinkeby network", 4000, "warning");
-    } else if (config.chainId === "0x1") {
+    } else if (config.chainId === "0x9") {
       modalAlert("Connect to the Ethereum network", 4000, "warning");
     } else {
       // Chain is on neither Rinkeby nor mainnet
