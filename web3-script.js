@@ -1,5 +1,5 @@
-import config from "./config.js";
-import abi from "./web3-contract-abi.js";
+import config from "config.js";
+import abi from "web3-contract-abi.js";
 
 let connected = false;
 
