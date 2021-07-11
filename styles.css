@@ -11268,3 +11268,27 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* web3 */
+#quantity {
+  width: 90px;
+}
+#web3-btn-container {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+#price {
+  margin-bottom: 0px;
+}
+
+/* Countdown */
+#clock {
+	background: #64a19d;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-evenly;
+  width: 340px;
+  border-radius: 1%;
+}
+
+
