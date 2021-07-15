@@ -11290,5 +11290,10 @@ body {
   width: 340px;
   border-radius: 1%;
 }
-
+.center {
+  display: block;
+  margin-left: 25%;
+  margin-right: auto;
+  width: 100%;
+}
 
